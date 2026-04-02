@@ -8,7 +8,7 @@ Projeto desenvolvido com o objetivo de praticar e consolidar conhecimentos em **
 
 ## 📸 Preview
 
-![Preview do Projeto](./src/assets/preview.png)
+![Preview do Projeto](./src/assets/preview.gif)
 
 ---
 
