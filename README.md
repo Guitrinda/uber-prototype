@@ -76,7 +76,7 @@ O projeto foi desenvolvido com abordagem **mobile-first**, garantindo boa visual
 
 -1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Guitrinda/uber-prototype
 
 -2. Instale as dependências (se estiver usando Tailwind via CLI):
 npm install
